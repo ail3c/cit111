@@ -91,5 +91,5 @@ public class ThreeCups {
         //display random number
         System.out.println("ok well anyways, your lucky number is: " + randNum + "!");
        
-    }//close calculateTotalAfterTip
+    }//close generateRandomNumber
 }//close class
